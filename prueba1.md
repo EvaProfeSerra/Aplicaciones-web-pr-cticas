@@ -11,4 +11,4 @@
 2. Segundo paso
 3. Tercer paso
 [Prueba de enlace a google](https://www.google.com)
-![Imagen](imagenes/mariposa-monarca.jpg)
+![Imagen](imagenes/mariposa-monarca-600x450.jpg)
